@@ -10,6 +10,8 @@ Verkaufen-Tabs beim Händler. Gegenstände werden innerhalb ihrer Kategorien
 nach Art und passenden Eigenschaften geordnet. Der Tab **Alle** bleibt in
 seiner ursprünglichen Reihenfolge.
 
+[Installations-ZIP für Version 2.5.0 herunterladen](https://github.com/Erzmaster/Gothic-1-Remake-Inventory-Sort/releases/download/v2.5.0/G1R_InventorySort-v2.5.0.zip)
+
 ## Vorschau
 
 [▶ Demo-Video ansehen (MP4, ca. 169 MB)](assets/video/inventory-sort-demo.mp4)
@@ -228,6 +230,8 @@ inventory tabs.
 **Version 2.5.0** sorts the player inventory and the merchant's Buy and Sell
 tabs. Items are grouped by type and ordered by relevant properties within
 each category. The mixed **All Items** tab keeps its original order.
+
+[Download the version 2.5.0 installation ZIP](https://github.com/Erzmaster/Gothic-1-Remake-Inventory-Sort/releases/download/v2.5.0/G1R_InventorySort-v2.5.0.zip)
 
 ## Media preview
 
