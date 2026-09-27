@@ -198,19 +198,6 @@ der Manawert verglichen; bei Getränken der bekannte Alkoholwert.
 
 Der gemischte Tab **Alle Gegenstände** wird absichtlich nicht sortiert.
 
-## Fehlerprüfung
-
-In `ue4ss\UE4SS.log` sollte nach dem Spielstart unter anderem folgende Zeile
-erscheinen:
-
-```text
-[G1R_InventorySort] v2.5.0 loaded; guarded inventory UI sorting is active
-```
-
-Fehlt sie, prüfe zuerst die Ordnerstruktur und die Aktivierung des Mods.
-`sort failed` oder `trade UI sort failed` im Log bezeichnet eine abgebrochene
-Sortierung; bewahre das Log und die betroffene Aktion für eine Fehlermeldung auf.
-
 ## Deinstallation
 
 Beende das Spiel und entferne den Ordner `ue4ss\Mods\G1R_InventorySort`.
@@ -413,18 +400,6 @@ second; beverages use their known alcohol value.
 ### All items
 
 The mixed **All Items** tab is intentionally left unchanged.
-
-## Troubleshooting
-
-After starting the game, `ue4ss\UE4SS.log` should contain a line similar to:
-
-```text
-[G1R_InventorySort] v2.5.0 loaded; guarded inventory UI sorting is active
-```
-
-If it is missing, check the directory structure and whether the mod is
-enabled. A `sort failed` or `trade UI sort failed` line means sorting stopped;
-retain the log and the affected action when reporting a bug.
 
 ## Uninstallation
 
