@@ -1,0 +1,13 @@
+# UE4SS runtime and diagnostic output
+*.log
+UE4SS_ObjectDump.txt
+diagnostic-runs/
+
+# Locally generated release archives
+*.zip
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
